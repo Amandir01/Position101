@@ -1,0 +1,27 @@
+#container {
+
+}
+#nav{
+  position: static;
+}
+#content{
+  position: relative;
+  padding-right: 250px;
+  padding-bottom: 60px;
+
+}
+#callout {
+  position: absolute;
+  right: 80px;
+  top: 100px;
+  bottom: 100px;
+  height: auto;
+}
+#footer {
+  position: fixed;
+  position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: green;
+}
